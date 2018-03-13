@@ -1,2 +1,2 @@
 # snscontract
-SNS (ERC-20)
+SNScoin token (ERC-20) source code
